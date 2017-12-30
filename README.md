@@ -16,25 +16,25 @@ In this challenge, given the randomly sampled data, you’ve to predict the port
 You are given three files to download: train, test and sample submission.
 
 ### Variable Name	| Description
---------------- | -------------
-portfolio_id  | unique ID
-desk_id         | manager ID (the person handling the portfolio, it can be a team)
+----------------- | -------------
+portfolio_id      | unique ID
+desk_id           | manager ID (the person handling the portfolio, it can be a team)
 office_id         | place where portfolio is managed
-pf_category          | portfolio category (anonymised)
-start_date          | date when portfolio started
-sold          | currency (amount sold)
-euribor_rate          | euribor lending rate (monthly average)
+pf_category       | portfolio category (anonymised)
+start_date        | date when portfolio started
+sold              | currency (amount sold)
+euribor_rate      | euribor lending rate (monthly average)
 currency          | currency in which transaction was made
-libor_rate          | libor lending rate (monthly average)
-country_code          | country where office is
-bought          | currency (price at which portfolio is bought)
-creation_date          | date when portfolio instruments were traded
-indicator_code          | anonymised
-sell_date          | date when portfolio is sold
-type          | type of portfolio
-hedge_value          | if a portfolio got hedged
-status          | anonymised
-RETURN          | target variable
+libor_rate        | libor lending rate (monthly average)
+country_code      | country where office is
+bought            | currency (price at which portfolio is bought)
+creation_date     | date when portfolio instruments were traded
+indicator_code    | anonymised
+sell_date         | date when portfolio is sold
+type              | type of portfolio
+hedge_value       | if a portfolio got hedged
+status            | anonymised
+RETURN            | target variable
 
 
 
