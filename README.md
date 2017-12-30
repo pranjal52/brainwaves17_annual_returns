@@ -15,7 +15,7 @@ In this challenge, given the randomly sampled data, you’ve to predict the port
 ### Data Description
 You are given three files to download: train, test and sample submission.
 
-### Variable Name	| Description
+ Variable Name	  | Description
 ----------------- | -------------
 portfolio_id      | unique ID
 desk_id           | manager ID (the person handling the portfolio, it can be a team)
